@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Zhuoran Liu
+### Hi there 👋, this is Zhuoran Liu!
 
 ## 😄 Pronouns
 She/Her/Hers
