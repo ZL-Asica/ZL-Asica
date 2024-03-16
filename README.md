@@ -1,4 +1,4 @@
-### Hi there 👋, this is Zhuoran Liu!
+### Hi there 👋, this is Zhuoran (Elara) Liu!
 
 ## 😄 Pronouns
 She/Her/Hers
@@ -17,8 +17,8 @@ She/Her/Hers
 - Explainable AI
 
 ## 📫 Contact Me
-- Academic Portfolio: [Zhuoran Liu](https://www.zla.app/) - **Check out more about my academic journey, projects, and research**.
-- LinkedIn: [Zhuoran Liu](https://www.linkedin.com/in/zhuoran-liu-work/) - **Check out more about my industry journey**.
+- Academic Portfolio: [Zhuoran (Elara) Liu](https://www.zla.app/) - **Check out more about my academic journey, projects, and research**.
+- LinkedIn: [Zhuoran (Elara) Liu](https://www.linkedin.com/in/zhuoran-liu-work/) - **Check out more about my industry journey**.
 
 ## 👀 My Organization
 - [BelugaSubs](https://www.belugasubs.com) 🐋 - Sharing global stories with Chinese audiences.
