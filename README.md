@@ -1,4 +1,4 @@
-### Hi there 👋, this is Zhuoran (Elara) Liu!
+### Hi there 👋, this is Elara Liu!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=zl-asica&show_icons=true&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,10 +10,13 @@
 
 ## 👨‍💻 About Me
 
-- 4th Year Undergraduate - Double Major in Computer Science & Informatics at UC Irvine
+- Incoming 2024 Fall Master of Science in Computer Science @ Northwestern University
+- 4th Year Undergraduate - Double Major in Computer Science & Informatics @ UC Irvine
 - Aspiring to bridge ML with healthcare. 🌟
 
 ## 🎓 Education
+
+- **Northwestern University** - M.S. in Computer Science `2024/09-TBD` <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/800px-Northwestern_University_seal.svg.png" width="36" alt="Northwestern logo">
 
 - **University of California, Irvine** - B.S. in Computer Science and Informatics `2020/09-2024/06` <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/1200px-University_of_California%2C_Irvine_seal.svg.png" width="36" alt="UC Irvine logo">
 
@@ -21,6 +24,7 @@
 
 ## 🌱 I’m currently learning
 
+- Health Informatics
 - Deep Learning
 - Explainable AI
 
