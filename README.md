@@ -4,9 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zl-asica&layout=compact&hide=css,liquid,scss)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## 😄 Pronouns
 
 - She/Her/Hers
+-->
 
 ## 👨‍💻 About Me
 
