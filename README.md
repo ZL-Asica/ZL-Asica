@@ -12,7 +12,7 @@
 
 - Incoming 2024 Fall Master of Science in Computer Science @ Northwestern University
 - 4th Year Undergraduate - Double Major in Computer Science & Informatics @ UC Irvine
-- Aspiring to bridge ML with healthcare. 🌟
+- Aspiring to bridge HCI and ML with healthcare. 🌟
 
 ## 🎓 Education
 
