@@ -33,7 +33,7 @@
 ## 📫 Contact Me
 
 - Academic Portfolio: [Zhuoran (Elara) Liu](https://www.zla.app/) - **Check out more about my academic journey, projects, and research**.
-- LinkedIn: [Zhuoran (Elara) Liu](https://www.linkedin.com/in/zhuoran-liu-work/) - **Check out more about my industry journey**.
+- LinkedIn: [Zhuoran (Elara) Liu](https://www.linkedin.com/in/elara-liu/) - **Check out more about my industry journey**.
 
 ## 👀 My Organization
 
