@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-- Incoming 2024 Fall Master of Science in Computer Science @ Northwestern University
-- 4th Year Undergraduate - Double Major in Computer Science & Informatics @ UC Irvine
+- Currently Master of Science in Computer Science @ Northwestern University
+- Recently Graduated with a Double BS (Hons) in Computer Science and Informatics @ UC Irvine
 - Aspiring to bridge HCI and ML with healthcare. 🌟
 
 ## 🎓 Education
