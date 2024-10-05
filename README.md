@@ -18,7 +18,7 @@
 
 ## 🎓 Education
 
-- **Northwestern University** - M.S. in Computer Science `2024/09-TBD` <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/800px-Northwestern_University_seal.svg.png" width="36" alt="Northwestern logo">
+- **Northwestern University** - M.S. in Computer Science `2024/09-2026/06` <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/800px-Northwestern_University_seal.svg.png" width="36" alt="Northwestern logo">
 
 - **University of California, Irvine** - B.S. in Computer Science and Informatics `2020/09-2024/06` <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/1200px-University_of_California%2C_Irvine_seal.svg.png" width="36" alt="UC Irvine logo">
 
@@ -41,7 +41,7 @@
 
 ## ⚡ Fun fact
 
-- I enjoy **global travel**, **Japanese anime**, and playing **Overwatch**.
+- I enjoy **global travel**, **Japanese anime**, and **exploring pâtisserie**.
 
 <!--
 **ZL-Asica/ZL-Asica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
