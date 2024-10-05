@@ -20,7 +20,7 @@
 
 - **Northwestern University** - M.S. in Computer Science `2024/09-2026/06` <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/800px-Northwestern_University_seal.svg.png" width="36" alt="Northwestern logo">
 
-- **University of California, Irvine** - B.S. in Computer Science and Informatics `2020/09-2024/06` <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/1200px-University_of_California%2C_Irvine_seal.svg.png" width="36" alt="UC Irvine logo">
+- **University of California, Irvine** - B.S. (Hons) in Computer Science and Informatics `2020/09-2024/06` <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/1200px-University_of_California%2C_Irvine_seal.svg.png" width="36" alt="UC Irvine logo">
 
 - **The Chinese University of Hong Kong** - Summer Research `2023/06-2023/08` <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Emblem_of_CU.png" width="36" alt="CUHK logo">
 
