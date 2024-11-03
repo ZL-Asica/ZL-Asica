@@ -1,34 +1,12 @@
-# 👋 Hi there, I'm Elara Liu!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zl-asica&show_icons=true&count_private=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zl-asica&layout=compact&hide=css,liquid,scss)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<!--
-## 😄 Pronouns
-
-- She/Her/Hers
--->
+# 👋 Hi there, I'm Elara Liu (ZL Asica)!
 
 
 ## 👩‍💻 About Me
 
-- 🎓 **Master's in Computer Science** @ Northwestern University
-- 🎓 **Double Bachelor's (Honors)** in Computer Science and Informatics @ UC Irvine
+- 🎓 **Master's in Computer Science** @ Northwestern University `(2024 - 2026)`
+- 🎓 **Double Bachelor's (Honors)** in Computer Science and Informatics @ UC Irvine `(2020 - 2024)`
 - 🌐 Passionate about bridging **HCI** and **Machine Learning** to drive **healthcare innovation**
-
-
-## 🎓 Education
-
-- **Northwestern University**   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/800px-Northwestern_University_seal.svg.png" width="36" alt="Northwestern logo">
-
-  M.S. in Computer Science | `2024/09 - 2026/06`
-- **University of California, Irvine**   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/1200px-University_of_California%2C_Irvine_seal.svg.png" width="36" alt="UC Irvine logo">
-
-  B.S. (Honors) in Computer Science and Informatics | `2020/09 - 2024/06`
-- **The Chinese University of Hong Kong**  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Emblem_of_CU.png" width="36" alt="CUHK logo">
-
-  Summer Research Program | `2023/06 - 2023/08`
-
 
 ## 🌱 Currently Exploring
 
@@ -36,38 +14,40 @@
 - Human-Computer Interaction 🕵️‍♀️
 - Deep Learning 🧠
 
+## 🛠️ Skills
 
-## 📫 Connect with Me
+![Python][python-badge] ![JavaScript][javascript-badge] ![React][react-badge] ![TypeScript][typescript-badge] ![Firebase][firebase-badge] ![Hono][hono-badge]
 
-- Academic Portfolio: [Zhuoran (Elara) Liu](https://zla.app/)  
-  **Learn more about my research, projects, and academic journey!**
+## 🧩 Personal Projects
 
-- LinkedIn: [Zhuoran (Elara) Liu](https://www.linkedin.com/in/elara-liu/)  
-  **Explore my industry experiences and professional connections!**
+- [Suzu-Blog](https://github.com/ZL-Asica/Suzu-Blog) - A Markdown-based blog template built with Next.js.
+- [KumoAuth](https://github.com/ZL-Asica/KumoAuth) - Backend authentication API project using Hono+D1 for serverless deployment.
 
+---
 
-## 👥 My Organization
+[![GitHub Profile][gh-profile-card]][gh-profile-card-link]
 
-- [BelugaSubs](https://www.belugasubs.com) 🐋  
-  Sharing global stories with Chinese audiences.
+[![GitHub Stats][gh-stats]][gh-profile-card-link]  [![Top Languages][gh-languages]][gh-profile-card-link]
 
-
-## ⚡ Fun Fact
-
-I love **global travel**, am a fan of **Japanese anime**, and enjoy **exploring pâtisserie**! 🍰
-
+[python-badge]: https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff
+[javascript-badge]: https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
+[react-badge]: https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black
+[vue-badge]: https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white
+[typescript-badge]: https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white
+[firebase-badge]: https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black
+[hono-badge]: https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff
 
 <!--
-**ZL-Asica/ZL-Asica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[gitHub-streak-img]: https://streak-stats.demolab.com?user=ZL-Asica&theme=ambient-gradient&hide_border=true&card_width=200&card_height=150&hide_total_contributions=true&hide_longest_streak=true
+[streak-stats-link]: https://git.io/streak-stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[github-stats-link]: https://github.com/anuraghazra/github-readme-stats
+[github-stats-img]: https://github-readme-stats.vercel.app/api?username=zl-asica&show_icons=true&count_private=true&hide_title=true&hide_rank=true
+[top-languages-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=zl-asica&layout=compact&hide=css,liquid,scss
 -->
+
+[gh-profile-card-link]: https://github.com/vn7n24fzkq/github-profile-summary-cards
+
+[gh-profile-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZL-Asica&theme=tokyonight
+[gh-stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zl-asica&theme=tokyonight
+[gh-languages]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zl-asica&theme=tokyonight&exclude=HTML,SCSS,Shell,Markdown,Liquid
