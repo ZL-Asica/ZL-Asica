@@ -1,6 +1,4 @@
-
 # 👋 Hi there, I'm Elara Liu (ZL Asica)!
-
 
 ## 👩‍💻 About Me
 
@@ -17,6 +15,8 @@
 ## 🛠️ Skills
 
 ![Python][python-badge] ![JavaScript][javascript-badge] ![React][react-badge] ![TypeScript][typescript-badge] ![Firebase][firebase-badge] ![Hono][hono-badge]
+
+---
 
 ## 🧩 Personal Projects
 
