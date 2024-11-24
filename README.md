@@ -23,7 +23,8 @@
 ## 🧩 Personal Projects
 
 - [SuzuBlog](https://github.com/ZL-Asica/SuzuBlog) - A Markdown-based blog template built with Next.js.
-- [KumoAuth](https://github.com/ZL-Asica/KumoAuth) - Backend authentication API project using Hono+D1 for serverless deployment.
+- [KumoAuth](https://github.com/ZL-Asica/KumoAuth) - Backend authentication API project using Hono + D1 for serverless deployment.
+- [MomoPix](https://github.com/ZL-Asica/MomoPix) - Images hosting project using React + Hono + R2 for serverless deployment.
 
 ---
 
