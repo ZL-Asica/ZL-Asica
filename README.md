@@ -18,13 +18,11 @@
 ![React][react-badge] ![Next.js][nextjs-badge] ![Vue][vue-badge] ![Nuxt.js][nuxt-badge] ![Expo][expo-badge] |
 ![Hono][hono-badge] ![Cloudflare][cloudflare-badge] ![Firebase][firebase-badge]
 
----
-
 ## 🧩 Personal Projects
 
-- [SuzuBlog](https://github.com/ZL-Asica/SuzuBlog) - A Markdown-based blog template built with Next.js.
-- [KumoAuth](https://github.com/ZL-Asica/KumoAuth) - Backend authentication API project using Hono + D1 for serverless deployment.
-- [MomoPix](https://github.com/ZL-Asica/MomoPix) - Images hosting project using React + Hono + R2 for serverless deployment.
+- [SuzuBlog](https://github.com/ZL-Asica/SuzuBlog) - A Markdown-based blog system built with Next.js.
+- [React](https://github.com/ZL-Asica/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
+- [MomoPix](https://github.com/ZL-Asica/MomoPix) - Images hosting project using React + Cloudflare Pages/KV/R2 for serverless edge deployment.
 
 ---
 
