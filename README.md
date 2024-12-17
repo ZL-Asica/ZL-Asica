@@ -37,7 +37,7 @@
 [github-stats-link]: https://github.com/anuraghazra/github-readme-stats
 [github-stats-img]: https://github-readme-stats.vercel.app/api?username=zl-asica&show_icons=true&count_private=true&hide_title=true&hide_rank=true
 [top-languages-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=zl-asica&layout=compact&hide=css,liquid,scss
---> 
+-->
 
 [cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white
 [expo-badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff
