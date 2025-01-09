@@ -4,7 +4,6 @@
 
 - 🎓 **Master's in Computer Science** @ Northwestern University `(2024 - 2026)`
 - 🎓 **Double Bachelor's (Honors)** in Computer Science and Informatics @ UC Irvine `(2020 - 2024)`
-- 🌐 Passionate about bridging **HCI** and **Machine Learning** to drive **healthcare innovation**
 
 ## 🌱 Currently Exploring
 
