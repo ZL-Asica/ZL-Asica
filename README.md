@@ -27,7 +27,14 @@
 
 [![GitHub Profile][gh-profile-card]][gh-profile-card-link]
 
-[![GitHub Stats][gh-stats]][gh-profile-card-link]  [![Top Languages][gh-languages]][gh-profile-card-link]
+[![GitHub Stats][gh-stats]][gh-profile-card-link]  [![Top Languages][gh-languages]][gh-profile-card-link] 
+
+<details>
+  <summary>Ever wondered where my time goes? ⏳🔍</summary>
+
+  [![GitHub Time][gh-time]][gh-profile-card-link] 
+
+</details>
 
 <!--
 [gitHub-streak-img]: https://streak-stats.demolab.com?user=ZL-Asica&theme=ambient-gradient&hide_border=true&card_width=200&card_height=150&hide_total_contributions=true&hide_longest_streak=true
@@ -41,7 +48,8 @@
 [cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white
 [expo-badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff
 [firebase-badge]: https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black
-[gh-languages]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zl-asica&theme=tokyonight&exclude=HTML,SCSS,Shell,Markdown,Liquid
+[gh-languages]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zl-asica&theme=tokyonight&exclude=HTML,SCSS,Markdown,Liquid
+[gh-time]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zl-asica&theme=tokyonight&utcOffset=-6
 [gh-profile-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZL-Asica&theme=tokyonight
 [gh-profile-card-link]: https://github.com/vn7n24fzkq/github-profile-summary-cards
 [gh-stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zl-asica&theme=tokyonight
