@@ -7,6 +7,7 @@
 
 ## 🌱 Currently Exploring
 
+- Large Language Model (LLM) 🤖
 - Health Informatics 🏥
 - Human-Computer Interaction 🕵️‍♀️
 - Deep Learning 🧠
