@@ -8,9 +8,9 @@
 ## 🌱 Currently Exploring
 
 - Large Language Model (LLM) 🤖
-- Health Informatics 🏥
 - Human-Computer Interaction 🕵️‍♀️
 - Deep Learning 🧠
+- Health Informatics 🏥
 
 ## 🛠️ Skills
 
@@ -21,8 +21,10 @@
 ## 🧩 Personal Projects
 
 - [SuzuBlog](https://github.com/ZL-Asica/SuzuBlog) - A Markdown-based blog system built with Next.js.
+- [EnjuFolio](https://github.com/ZL-Asica/Enju-Portfolio) - A Markdown-based personal academic portfolio built with Next.js.
 - [React](https://github.com/ZL-Asica/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
-- [MomoPix](https://github.com/ZL-Asica/MomoPix) - Images hosting project using React + Cloudflare Pages/KV/R2 for serverless edge deployment.
+- [EnjuFolio](https://github.com/ZL-Asica/Enju-Portfolio) - A Markdown-based personal academic portfolio built with Next.js.
+- [Daily arXiv Digest](https://github.com/ZL-Asica/daily-arXiv-digest) - A Langchain and GitHub-action based arXiv daily crawler with LLM enhanced personalized summarization.
 
 ---
 
