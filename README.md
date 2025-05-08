@@ -23,7 +23,6 @@
 - [SuzuBlog](https://github.com/ZL-Asica/SuzuBlog) - A Markdown-based blog system built with Next.js.
 - [EnjuFolio](https://github.com/ZL-Asica/Enju-Portfolio) - A Markdown-based personal academic portfolio built with Next.js.
 - [React](https://github.com/ZL-Asica/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
-- [EnjuFolio](https://github.com/ZL-Asica/Enju-Portfolio) - A Markdown-based personal academic portfolio built with Next.js.
 - [Daily arXiv Digest](https://github.com/ZL-Asica/daily-arXiv-digest) - A Langchain and GitHub-action based arXiv daily crawler with LLM enhanced personalized summarization.
 
 ---
