@@ -50,11 +50,11 @@
 [cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white
 [expo-badge]: https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff
 [firebase-badge]: https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black
-[gh-languages]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zl-asica&theme=tokyonight&exclude=HTML,SCSS,Markdown,Liquid
-[gh-time]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zl-asica&theme=tokyonight&utcOffset=-6
+[gh-languages]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg
+[gh-time]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/4-productive-time.svg
 [gh-profile-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZL-Asica&theme=tokyonight
-[gh-profile-card-link]: https://github.com/vn7n24fzkq/github-profile-summary-cards
-[gh-stats]: https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zl-asica&theme=tokyonight
+[gh-profile-card-link]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/0-profile-details.svg
+[gh-stats]: https://raw.githubusercontent.com/ZL-Asica/ZL-Asica/main/profile-summary-card-output/tokyonight/3-stats.svg
 [hono-badge]: https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff
 [javascript-badge]: https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
 [nextjs-badge]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
