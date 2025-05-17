@@ -58,7 +58,7 @@
 [hono-badge]: https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff
 [javascript-badge]: https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
 [nextjs-badge]: https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white
-[nuxt-badge]: https://img.shields.io/badge/Nuxt-00DC82?logo=nuxtdotjs&logoColor=white&style=flat
+[nuxt-badge]: https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82
 [python-badge]: https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff
 [react-badge]: https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black
 [typescript-badge]: https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white
