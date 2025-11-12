@@ -49,7 +49,7 @@
 
 - [Airtable TS](https://github.com/ZL-Asica/TS-Airtable) - A tiny, modern Airtable Web and Node API client
 
-  _ tsdown · Vitest · V8 Coverage · VitePress · In-memory LRU caching_
+  _tsdown · Vitest · V8 Coverage · VitePress · In-memory LRU caching_
 
 - [React](https://github.com/ZL-Asica/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
 
