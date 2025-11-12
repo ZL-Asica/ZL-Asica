@@ -47,9 +47,13 @@
 
   _Next.js · MDX · Tailwind · SEO Optimization_
 
+- [Airtable TS](https://github.com/ZL-Asica/TS-Airtable) - A tiny, modern Airtable Web and Node API client
+
+  _ tsdown · Vitest · V8 Coverage · VitePress · In-memory LRU caching_
+
 - [React](https://github.com/ZL-Asica/React) - is not a reimplementation of React itself. It is a collection of reusable React hooks, utilities, and tools.
 
-  _React · Vitest · V8 Coverage · VitePress · tsup · React Hooks · Utility Functions_
+  _React · Vitest · V8 Coverage · VitePress · tsdown · React Hooks · Utility Functions_
 
 - [Daily arXiv Digest](https://github.com/ZL-Asica/daily-arXiv-digest) - A Langchain and GitHub-action based arXiv daily crawler with LLM enhanced personalized summarization.
 
