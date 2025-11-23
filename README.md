@@ -12,9 +12,8 @@
 ## 🌱 Currently Exploring
 
 - Human-Computer Interaction 🕵️‍♀️
-- Large Language Model (LLM) 🤖
-- Deep Learning 🧠
 - Health Informatics 🏥
+- Large Language Model (LLM) 🤖
 
 ## 🛠️ Skills
 
