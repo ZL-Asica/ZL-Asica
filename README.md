@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- **Seeking PhD positions in HCI for Fall 2026** in
+- **📢 Seeking PhD positions in HCI for Fall 2026** in
   - Human-Computer Interaction (HCI)
   - Health Informatics
   - Computer-Supported Cooperative Work (CSCW)
