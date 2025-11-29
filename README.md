@@ -68,9 +68,11 @@
 
   _Next.js · Tailwind · AirTable · SEO Optimization · ARIA_
 
+<!--
 - [Daily arXiv Digest](https://github.com/ZL-Asica/daily-arXiv-digest) - A Langchain and GitHub-Action-based arXiv daily crawler with LLM-enhanced personalized summarization.
 
   _LangChain · GitHub Actions · Crawler · OpenAI API · Markdown Digest_
+-->
 
 ---
 
