@@ -6,12 +6,9 @@
 
 ## 👩‍💻 About Me
 
-- **📢 Seeking PhD positions in HCI for Fall 2026** in
-  - Human-Computer Interaction (HCI)
-  - Health Informatics
-  - Computer-Supported Cooperative Work (CSCW)
-- 🎓 **Master of Science in Computer Science** @ Northwestern University `(2024 - 2026)`
-- 🎓 **Double Bachelor of Science (Honors) in Computer Science and Informatics** @ UC Irvine `(2020 - 2024)`
+- 🎓 **Ph.D. in Computer Science and Informatics** @ Emory University `(Incoming Fall 2026)`
+- 🎓 **M.S. in Computer Science** @ Northwestern University `(2024 - 2026)`
+- 🎓 **Double B.S. (Honors) in Computer Science and Informatics** @ University of California, Irvine `(2020 - 2024)`
 
 ## 🌱 Currently Exploring
 
