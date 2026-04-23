@@ -67,7 +67,7 @@
 
 - [Pair Research](https://github.com/NUDelta/pair-research) - A real-time group collaboration and pairing tool.
 
- _Tanstack React Start · Tailwind · Supabase · Real-time_
+  _Tanstack React Start · Tailwind · Supabase · Real-time_
 
 <!--
 - [Daily arXiv Digest](https://github.com/ZL-Asica/daily-arXiv-digest) - A Langchain and GitHub-Action-based arXiv daily crawler with LLM-enhanced personalized summarization.
