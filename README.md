@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Ph.D. in Computer Science and Informatics** @ Emory University `(Incoming Fall 2026)`
+- 🎓 **Ph.D. in Computer Science and Informatics** @ Emory University `(2026 - Current)`
 - 🎓 **M.S. in Computer Science** @ Northwestern University `(2024 - 2026)`
 - 🎓 **Double B.S. (Honors) in Computer Science and Informatics** @ University of California, Irvine `(2020 - 2024)`
 
